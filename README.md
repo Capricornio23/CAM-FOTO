@@ -11,3 +11,11 @@ $ cd CAM-FOTO
 $ chmod +x *
 $ bash cam-foto
 # 🔰MODO DE USO🔰
+
+Copie el Link y luego envié a la víctima
+Espere un momento y luego mueva las imágenes que
+Se tomaron a su almacenamiento interno.
+
+# 🔰PROGRAMADOR🔰
+
+CAPRICORNIO23
